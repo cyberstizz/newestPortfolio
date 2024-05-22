@@ -80,10 +80,10 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here! (:",
+    "Hi, Welcome to my digital Home! (:",
 
-		"My name is Sara, I'm 21 and a junior computer science student based in Guatemala. I have a strong passion for the technologies related to QA and AI.",
-    "Outside of my regular activities, I'm a painting artist, football enthusiast, chess player, and a dog lover.",
+		"My name is Charles Lamb Jr, I'm 39 and a web developer based in New York City. I am always learningnew things and experimenting with new technologies just for a bit of fun lol.",
+    "Outside of my regular activities, I'm a Freelancer, Calisthenic athlete, Real Estate Agent, and a Brazilin ji Jitsu lover.",
     "I'm continuously thrilled to partner with individuals and teams who wholeheartedly embrace my fervor for crafting extraordinary experiences. Your visit to my portfolio is deeply appreciated !",
     "You can download my resume here."
   ],
@@ -110,7 +110,7 @@ export const navLinks = [
 
 const projects = [
   {
-    name: "Arasartara's Gallery",
+    name: "DesignHer Kustom Creations Inc.",
     description: 'A memory game with an art theme implemented with React. Test your memory skills and enjoy beautiful artwork as you match pairs of cards in this engaging game.',
     image: memoryGame,
     source_code_link: 'https://github.com/bl33h/artMemoryGame',
