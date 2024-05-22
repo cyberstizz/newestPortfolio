@@ -33,6 +33,11 @@ import menu from './menu.svg';
 // Projects
 import pawsitivePrototype from './projects/pawsitive.jpeg';
 import memoryGame from './projects/memory.jpg';
+import designherscreenshot from './projects/designherscreenshot.png'
+import basicBankScreenshot from './projects/basicBankScreenshot.png'
+import mogulFashionShot from './projects/mogulFashionShot.png'
+import guttiesScreenshot from './projects/guttiesScreenshot.png'
+
 
 // Avatar
 import avatar from './avatar/avatar.png';
@@ -60,4 +65,8 @@ export {
   memoryGame,
   avatar,
   bl33hIcon,
+  designherscreenshot,
+  mogulFashionShot,
+  guttiesScreenshot,
+  basicBankScreenshot
 };
