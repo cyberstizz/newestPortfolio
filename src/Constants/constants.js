@@ -113,14 +113,14 @@ export const navLinks = [
 const projects = [
   {
     name: "DesignHer Kustom Creations Inc.",
-    description: 'A memory game with an art theme implemented with React. Test your memory skills and enjoy beautiful artwork as you match pairs of cards in this engaging game.',
+    description: 'This is an e commerce React application that communicates with a Node/Express server and stores data with a postgresql database',
     image: designherscreenshot,
     source_code_link: 'https://github.com/cyberstizz/fulldesignherapplication',
     demo_link: 'http://www.designhercustomkreation.com/',
   },
   {
     name: 'Mogul Fashion',
-    description: 'This project implements Connect Four in Python and Pygame, featuring a GUI and gameplay modes for player vs. AI and AI vs. AI. The AI uses the MiniMax algorithm, with optional alpha-beta pruning for improved performance.',
+    description: 'this is a React frontend that commu icates with a Node/Express backend and stores data with a remote mongodb atlas database and aws for image storage',
     image: mogulFashionShot,
     source_code_link: 'https://github.com/cyberstizz/MogulFashion',
     demo_link: 'https://github.com/cyberstizz/MogulFashion',
@@ -129,15 +129,15 @@ const projects = [
     name: 'Gutties Outlet',
     description: 'Explore a user-friendly Figma prototype for an adoption and sterilization awareness website. Experience the sleek design and contribute to a noble cause.',
     image: guttiesScreenshot,
-    source_code_link: '',
-    demo_link: 'https://www.figma.com/proto/zhK8DMa7uPyQIcHxkemIcx/Pawsitive?type=design&node-id=40-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=40%3A2',
+    source_code_link: 'https://github.com/cyberstizz/MogulFashion',
+    demo_link: 'https://github.com/cyberstizz/MogulFashion',
   },
   {
     name: 'Basic Bank',
-    description: 'This is a chat application that facilitates communication between multiple clients through a centralized server. The application is designed using socket programming and handles multiple client connections concurrently using threads.',
+    description: 'This is a React and Django application that demonstrates the cross framework compatiability using and sqlite database',
     image: basicBankScreenshot,
-    source_code_link: 'https://github.com/bl33h/clientServerChat',
-    demo_link: 'https://youtu.be/Mk1BNqPz1n4',
+    source_code_link: 'https://github.com/cyberstizz/MogulFashion',
+    demo_link: 'https://github.com/cyberstizz/MogulFashion',
   }
 ];
 
