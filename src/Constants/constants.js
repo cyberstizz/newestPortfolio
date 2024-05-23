@@ -127,17 +127,17 @@ const projects = [
   },
   {
     name: 'Gutties Outlet',
-    description: 'Explore a user-friendly Figma prototype for an adoption and sterilization awareness website. Experience the sleek design and contribute to a noble cause.',
+    description: 'this applicataion is a React frontend conneting to a Node/express backend and using a postgres database for storage and stripe to handle e commerce payments',
     image: guttiesScreenshot,
-    source_code_link: 'https://github.com/cyberstizz/MogulFashion',
-    demo_link: 'https://github.com/cyberstizz/MogulFashion',
+    source_code_link: 'https://github.com/cyberstizz/theGuttiesOutlet.git',
+    demo_link: 'https://github.com/cyberstizz/theGuttiesOutlet.git',
   },
   {
     name: 'Basic Bank',
     description: 'This is a React and Django application that demonstrates the cross framework compatiability using and sqlite database',
     image: basicBankScreenshot,
-    source_code_link: 'https://github.com/cyberstizz/MogulFashion',
-    demo_link: 'https://github.com/cyberstizz/MogulFashion',
+    source_code_link: 'https://github.com/cyberstizz/basic-bank-server.git',
+    demo_link: 'https://github.com/cyberstizz/basic-bank-server.git',
   }
 ];
 
