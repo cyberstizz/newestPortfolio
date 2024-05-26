@@ -84,7 +84,7 @@ const introduction = {
   text: [
     "Hi, Welcome to my digital Home! (:",
 
-		"My name is Charles Lamb Jr, I'm 39 and a web developer based in New York City. I am always learning new things and experimenting with new technologies just for a bit of fun lol.",
+		"My name is Charles Lamb Jr, I'm a web developer based in New York City. I am always learning new things and experimenting with new technologies just for a bit of fun lol.",
     "Outside of my regular activities, I'm a Freelancer, Calisthenic athlete, Real Estate Agent, and a Brazilin ji Jitsu lover.",
     "I'm continuously thrilled to partner with individuals and teams who wholeheartedly embrace my fervor for crafting extraordinary experiences. Your visit to my portfolio is deeply appreciated !",
     "You can download my resume here."
