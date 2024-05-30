@@ -130,7 +130,7 @@ const projects = [
     description: 'this applicataion is a React frontend conneting to a Node/express backend and using a postgres database for storage and stripe to handle e commerce payments',
     image: guttiesScreenshot,
     source_code_link: 'https://github.com/cyberstizz/theGuttiesOutlet.git',
-    demo_link: 'https://github.com/cyberstizz/theGuttiesOutlet.git',
+    demo_link: 'https://seahorse-app-7tksj.ondigitalocean.app/',
   },
   {
     name: 'Basic Bank',
