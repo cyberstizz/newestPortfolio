@@ -137,7 +137,7 @@ const projects = [
     description: 'This is a React and Django application that demonstrates the cross framework compatiability using and sqlite database',
     image: basicBankScreenshot,
     source_code_link: 'https://github.com/cyberstizz/basic-bank-server.git',
-    demo_link: 'https://github.com/cyberstizz/basic-bank-server.git',
+    demo_link: 'https://basic-bankapp-4c273ab20631.herokuapp.com/',
   }
 ];
 
