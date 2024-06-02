@@ -123,7 +123,7 @@ const projects = [
     description: 'this is a React frontend that commu icates with a Node/Express backend and stores data with a remote mongodb atlas database and aws for image storage',
     image: mogulFashionShot,
     source_code_link: 'https://github.com/cyberstizz/MogulFashion',
-    demo_link: 'https://github.com/cyberstizz/MogulFashion',
+    demo_link: 'https://mogulfashion-57557984f8cb.herokuapp.com/',
   },
   {
     name: 'Gutties Outlet',
