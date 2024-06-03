@@ -1,33 +1,59 @@
-# [Your Name](Optional: Banner Image here)
+# who's bl33h ?
+Welcome to my portfolio repository! This project showcases my skills using React, ESLint, Tailwind, and Vite. It includes a brief introduction about me, my projects, the technologies I've worked with, and my experience. You'll also find a contact form at the bottom and my social media links below it. Feel free to explore and connect with me!
 
-## About Me
+<p align="center">
+  <br>
+  <img src="./public/Screen Shot 2024-06-02 at 10.50.12 PM.png" alt="wb" width="400">
+  <br>
+</p>
+<p align="center" >
+  <a href="#features">Features</a> •
+  <a href="#Files">Files</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#packages">Packages</a>   
+</p>
+<p align="center" >
+<a href="https://whosbl33h.netlify.app/">Try it out here</a> 
+</p>
 
-A short introduction about yourself and your areas of expertise. Briefly mention what you're passionate about or what you're currently working on.
+## Features
 
-## Skills
+* Vite
+```bash
+# Install dependencies
+$ npm i
+# run the app
+$ npm run dev
+```
 
-* [Skill 1 Badge](Badge URL Here)  [Skill 2 Badge](Badge URL Here)  [Skill 3 Badge](Badge URL Here)
-* (List additional skills without badges) 
+## Files
 
-## Projects
+- src: the file that implements de solution.
+- assets: resources that are used in an application.
+- components: reusable pieces of code that define the appearance and behavior of a part of the UI.
+- pages: the different areas of the portfolio.
+- constants: values that cannot be altered by the program during normal execution.
 
-### Project 1
 
-* **Description:** A short description of the project's purpose and functionalities.
-* **Technologies Used:** List of programming languages, frameworks or libraries used.
-* **Getting Started:** (Optional) Instructions on how to set up and run the project.
-* **Contribution:** (Optional) Guidelines on how others can contribute to the project.
-* **Link:** [Link to the project repository](Link Here)  (Optional)
+## How To Use
 
-### Project 2
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en) and [Vite](https://vitejs.dev/) installed on your computer. From your command line:
 
-**(Repeat the project section with the details of your other projects)**
+```bash
+# Clone this repository
+$ git clone https://github.com/bl33h/whosbl33h
 
-## Connect With Me
+# Install dependencies
+$ npm i
 
-* Website: [Link to your Website](Link Here) (Optional)
-* Portfolio: [Link to your Portfolio](Link Here) (Optional)
-* LinkedIn: [Link to your LinkedIn Profile](Link Here)
-* Twitter: [Link to your Twitter Profile](Link Here) (Optional)
+# Run the app
+$ npm run dev
+```
 
-**Note:** Replace the bracketed text with your information and add badges using a service like Shields (https://shields.io/).
+## Packages
+
+This software uses the following open source packages:
+
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
