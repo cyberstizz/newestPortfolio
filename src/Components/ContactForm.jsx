@@ -1,11 +1,4 @@
-/*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
-   Author: Sara Echeverria
-   FileName: ContactForm.jsx
-   Version: I
-   Creation: 02/06/2023
-   Last modification: 03/06/2023
-*/
+
 
 import { useRef, useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
@@ -19,10 +12,10 @@ const ContactForm = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "whoisbl33h",
-      "template1",
+      "service_l5jmhhg",
+      "template_h8gpfyn",
       e.target,
-      "JjC_Nnt4rUsjIsRtz"
+      "9UbCr0cQRyNtapD24"
     )
       .then(
         (result) => {
