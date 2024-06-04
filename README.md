@@ -13,12 +13,12 @@ Welcome to my portfolio repository! This project showcases my skills using React
   <a href="#packages">Packages</a>   
 </p>
 <p align="center" >
-<a href="https://www.charleslambjr.com/">Try it out here</a> 
+<a href="https://mogulfashion-57557984f8cb.herokuapp.com/">Try it out here</a> 
 </p>
 
 ## Features
 
-* Vite
+* How to use
 ```bash
 # Install dependencies
 $ npm i
@@ -41,7 +41,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:cyberstizz/newestPortfolio.git
+$ git clone git@github.com:cyberstizz/MogulFashionServer.git
 
 # Install dependencies
 $ npm i
