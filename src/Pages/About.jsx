@@ -6,7 +6,7 @@ import ImageSlider from "../Components/elements/ImageSlider";
 
 const About = () => {
   return (
-    <div id="about" className="w-full flex justify-center overflow-hidden-web" style={{backgroundImage: 'url("./public/111thStreet.jpg")', backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition: "center"}}>
+    <div id="about" className="w-full flex justify-center overflow-hidden-web" style={{backgroundImage: 'url("/111thStreet.jpg")', backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition: "center"}}>
       <div className="w-full xl:w-[70%] flex flex-col pb-16">
         <div className="w-full">
           <SectionTitle title="ABOUT ME" subtitle="Introduction"/>
