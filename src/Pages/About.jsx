@@ -23,15 +23,15 @@ const About = () => {
                   stiffness: 100,
                   damping: 20,
                 }}
-                style={{ fontFamily: "Poppins, sans-serif" }}
+                style={{ backgroundColor: 'rgba(0, 0, 255, 0.5)', fontFamily: "Poppins, sans-serif" }}
                 className="text-grayscale-50 p-6 text-center flex flex-col gap-5"
               >
-                <span className="text-primary-400" style={{ fontSize: '1.2em', fontWeight: '900' }}>{introduction.text[0]}</span>
-                <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[1]}</span>
-                <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[2]}</span>
-                <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[3]}</span>
+                <span className="text-primary-400" style={{ fontSize: '1.5em', color: 'black', fontWeight: '900' }}>{introduction.text[0]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1.2em', backgroundColor: 'rgba(255, 255, 255, 0.95)', color: 'orange', fontWeight: '500'}}>{introduction.text[1]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1.2em', backgroundColor: 'rgba(255, 255, 255, 0.95)',  color: 'orange', fontWeight: '500'}}>{introduction.text[2]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1.2em', backgroundColor: 'white',  color: 'orange', fontWeight: '500'}}>{introduction.text[3]}</span>
                 <a href="cv/Charles_LambResume.pdf" download>
-                  <span className="text-primary-600" style={{ fontSize: '0.95em', fontWeight: '700'}}>
+                  <span className="text-primary-600" style={{ fontSize: '0.95em', color: 'white', fontWeight: '700'}}>
                     {introduction.text[4].split('here')[0]}
                     <span style={{ textDecoration: 'underline' }}>here</span>
                     {introduction.text[4].split('here')[1]}

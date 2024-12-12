@@ -19,13 +19,14 @@ const SectionTitle = (props) => {
             textTransform: "uppercase",
             fontFamily: "Poppins, sans-serif",
             fontWeight: "600",
+            color: "black",
           }}
         >
           {subtitle}
         </span>
         <h2
           className="tracking-wider text-7xl sm:text-8xl md:text-9xl"
-          style={{ fontFamily: "Morganite Black"}}
+          style={{ color: "orange", fontFamily: "Morganite Black"}}
         >
           {title.split("").map((char, index) => {
             if(char === " ") {
