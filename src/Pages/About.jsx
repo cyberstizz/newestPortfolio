@@ -26,7 +26,7 @@ const About = () => {
                 style={{ backgroundColor: 'rgba(0, 0, 255, 0.5)', fontFamily: "Poppins, sans-serif" }}
                 className="text-grayscale-50 p-6 text-center flex flex-col gap-5"
               >
-                <span className="text-primary-400" style={{ fontSize: '1.5em', color: 'black', fontWeight: '900' }}>{introduction.text[0]}</span>
+                <span className="text-primary-400" style={{ fontSize: '1.5em', color: 'white', fontWeight: '900' }}>{introduction.text[0]}</span>
                 <span className="text-primary-500" style={{ fontSize: '1.2em', backgroundColor: 'rgba(255, 255, 255, 0.95)', color: 'orange', fontWeight: '500'}}>{introduction.text[1]}</span>
                 <span className="text-primary-500" style={{ fontSize: '1.2em', backgroundColor: 'rgba(255, 255, 255, 0.95)',  color: 'orange', fontWeight: '500'}}>{introduction.text[2]}</span>
                 <span className="text-primary-500" style={{ fontSize: '1.2em', backgroundColor: 'white',  color: 'orange', fontWeight: '500'}}>{introduction.text[3]}</span>
