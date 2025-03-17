@@ -108,7 +108,7 @@ const projects = [
   {
     name: "DesignHer Kustom Creations Inc.",
     description: 'This is a company that sells custom designed Crocs and other clothing',
-    image: DesignHerScreenshot2,
+    image: DesignherAgain,
     source_code_link: 'https://github.com/cyberstizz/fulldesignherapplication',
     demo_link: 'https://designher.webflow.io/',
   },
