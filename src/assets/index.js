@@ -26,10 +26,13 @@ import menu from './menu.svg';
 // Projects
 import pawsitivePrototype from './projects/pawsitive.jpeg';
 import memoryGame from './projects/memory.jpg';
-import designherscreenshot from './projects/designherscreenshot.png'
-import basicBankScreenshot from './projects/basicBankScreenshot.png'
-import mogulFashionShot from './projects/mogulFashionShot.png'
-import guttiesScreenshot from './projects/guttiesScreenshot.png'
+import designherscreenshot from './projects/designherscreenshot.png';
+import basicBankScreenshot from './projects/basicBankScreenshot.png';
+import mogulFashionShot from './projects/mogulFashionShot.png';
+import guttiesScreenshot from './projects/guttiesScreenshot.png';
+import DanysScreenshot from './projects/DanysScreenshot.png';
+import DesignherAgain from './projects/DesignherAgain.png';
+import EasyCodeScreenshot from './projects/EasyCodeScreenshot.png';
 
 
 // Avatar
