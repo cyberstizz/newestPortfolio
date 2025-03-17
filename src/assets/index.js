@@ -61,5 +61,8 @@ export {
   designherscreenshot,
   mogulFashionShot,
   guttiesScreenshot,
-  basicBankScreenshot
+  basicBankScreenshot,
+  DanysScreenshot,
+  DesignherAgain,
+  EasyCodeScreenshot
 };
