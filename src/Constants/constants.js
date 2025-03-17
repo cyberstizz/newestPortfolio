@@ -33,7 +33,7 @@ import {
   basicBankScreenshot,
   designherscreenshot,
   DanysScreenshot,
-  DesignHerScreenshot2,
+  DesignherAgain,
   EasyCodeScreenshot,
   guttiesScreenshot,
   mogulFashionShot,
